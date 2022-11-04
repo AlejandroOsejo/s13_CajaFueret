@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c06925af-4c5a-42eb-88f7-8959fc200958" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GlcEZJiY39jd8y2NfevT3h524G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "D:/Usuarios/1006099915/OneDrive - Universidad Icesi (@icesi.edu.co)/Universidad/Semestre 5/APO_II/Semana 13/S13_CajaFuerte/src/main/java/com/example/s13_cajafuerte",
+    "last_opened_file_path": "C:/Users/Usuario/OneDrive - Universidad Icesi (@icesi.edu.co)/Universidad/Semestre 5/APO_II/TI 2/TI2_geografia"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SafeBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.s13_cajafuerte.SafeBox" />
+      <module name="S13_CajaFuerte" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.s13_cajafuerte.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SafeBox" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c06925af-4c5a-42eb-88f7-8959fc200958" name="Changes" comment="" />
+      <created>1666966501688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666966501688</updated>
+    </task>
+    <servers />
+  </component>
+</project>
